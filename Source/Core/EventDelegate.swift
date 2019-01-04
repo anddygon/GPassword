@@ -26,7 +26,6 @@
 
 /// Protocol for handle touched-Points and deal with points
 public protocol EventDelegate: class {
-    
     /// Use to notice the gesture point, and consist of password
     ///
     /// - Parameter tag: String. identifer for point
